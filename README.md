@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/moise-obiliki/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/moise-obiliki/"><img src="https://img.shields.io/badge/LinkedIn-Contact-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:moiseobiliki@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 
 </p>
@@ -41,7 +41,7 @@ When I’m not working with data, I enjoy playing the guitar and piano, and writ
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
@@ -49,7 +49,8 @@ When I’m not working with data, I enjoy playing the guitar and piano, and writ
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/R-Intermediaire-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+<img src="https://img.shields.io/badge/SAS-Beginner-blue?style=for-the-badge&logo=sas&logoColor=white">
 </p>
 
 #### Business Intelligence & Analytics
