@@ -8,13 +8,13 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https:///www.linkedin.com/in/moise-obiliki/feed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/moise-obiliki/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:moiseobiliki@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
 I’m a junior data analyst passionate about new technologies and digital innovation, particularly at the intersection of data and artificial intelligence. I enjoy transforming complex and messy datasets into clear, meaningful stories that drive actionable business insights and support decision-making.
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on building dashboards that are actively used, automating repetitive tasks to free teams for more meaningful work, and developing models that help businesses plan strategically for the future.
 
 When I’m not working with data, I enjoy playing the guitar and piano, and writing. I love the music moment — when data comes together and reveals something new, clear, and valuable..
 
