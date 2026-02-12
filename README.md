@@ -8,8 +8,10 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/moise-obiliki/"><img src="https://img.shields.io/badge/LinkedIn-Contact-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/moise-obiliki/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:moiseobiliki@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="tel:+33773237963"><img src="https://img.shields.io/badge/Phone-%2B33-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
 </p>
 
 ## 🚀 About Me 
