@@ -24,9 +24,9 @@ When I’m not working with data, I enjoy playing the guitar and piano, and writ
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Evaluating employee satisfaction data to guide management decisions and improve workplace experience.]
+- **Project A:** [sales-performance-analytics.]
   
-- **Project B:** [Developing an interactive Power BI dashboard to monitor bakery sales, revenue, and customer patterns for actionable insights.]
+- **Project B:** [Healthcare-Expense-Analysis.]
 
 - **Mentoring:** Supporting and coaching a teammate to build Power BI dashboards and improve data visualization skills.
 
