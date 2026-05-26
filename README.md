@@ -26,7 +26,7 @@ When I’m not working with data, I enjoy playing the guitar and piano, and writ
 
 - **Project A:** [sales-performance-analytics.]
   
-- **Project B:** [Healthcare-Expense-App.]
+- **Project B:** [sales performance analytics.]
 
 - **Mentoring:** Supporting and coaching a teammate to build Power BI dashboards and improve data visualization skills.
 
