@@ -24,9 +24,9 @@ When I’m not working with data, I enjoy playing the guitar and piano, and writ
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [sales performance analytics.]
+- **Project A:** sales performance analytics.
   
-- **Project B:** [Healthcare-Expense-Streamlit-App.]
+- **Project B:** Healthcare-Expense-Streamlit-App.
 
 - **Mentoring:** Supporting and coaching a teammate to build Power BI dashboards and improve data visualization skills.
 
